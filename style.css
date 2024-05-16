@@ -149,3 +149,115 @@
 .icons i:hover{
     color: white;
 }
+
+
+
+
+
+
+
+
+/* last part */
+.containera1 {
+    color: white;
+    font-family: "Raleway", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containera1 h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.containera1 h4 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.containera1 p {
+    font-size: 14px;
+}
+
+.diva1 {
+    width: 60%;
+    height: 560px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.061);
+}
+
+.infosa1 {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.infoa1 {
+    width: 33%;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+}
+
+
+.infoa1 i {
+    font-size: 20px;
+    width: 44px;
+    height: 44px;
+    background: rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.inpsa1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+}
+
+.inpsa1 input {
+    font-size: 14px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    text-indent: 7px;
+    height: 50px;
+}
+
+.inpa1,
+.inpa2 {
+    width: 47.5%;
+}
+
+.inpa3 {
+    width: 98.5%;
+}
+
+.inpsa1 textarea {
+    width: 98.5%;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+
+.inpsa1 a {
+    padding: 15px 30px;
+    background-color: #ff0000;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.inpsa1 a:hover{
+    background-color: #ec2a2a;
+}
