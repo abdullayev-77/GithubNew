@@ -3,4 +3,8 @@ body {
 }
 h1 {
     color: green;
+    margin: 50%;
+    align-items: center;
+    align-items: baseline;
+    justify-content: center;
 }
